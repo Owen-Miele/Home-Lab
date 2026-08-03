@@ -2,8 +2,8 @@
 configuration:
   pageTitle: Owen Miele's Home Lab
   pageTitleSuffix: " | Home Lab"
-  enableSPA: true
-  enablePopovers: true
+  enableSPA: false
+  enablePopovers: false
   analytics: null
   locale: en-US
   baseUrl: Owen-Miele.github.io/Home-Lab
