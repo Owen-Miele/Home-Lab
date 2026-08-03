@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: Owen-Miele.github.io/Home-Lab-Site
+  baseUrl: Owen-Miele.github.io/Home-Lab
   ignorePatterns:
     - private
     - templates
@@ -234,7 +234,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/Owen-Miele/Home-Lab-Site
+        GitHub: https://github.com/Owen-Miele/Home-Lab
     layout:
       position: footer
       priority: 50
